@@ -1,23 +1,19 @@
 
-**Tip Calculator** is a tip calculator application for iOS.
+### Tip Calculator 
 
-
-Time spent: **5** hours spent in total
+Tip Calculator is a swift application to calculate tip on iOS platform.
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Wc4JZGC"><a href="//imgur.com/a/Wc4JZGC">Tip Calculator by Karan Makwana</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+![Demo GIF:Tip Calulator](https://i.imgur.com/XkynTP6.gif)
 
 ## License
 
