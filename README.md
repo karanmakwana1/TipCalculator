@@ -1,8 +1,6 @@
-# Pre-work - *Karan Makwana*
 
 **Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Karan Makwana**
 
 Time spent: **5** hours spent in total
 
