@@ -1,5 +1,5 @@
 
-### Tip Calculator 
+# Tip Calculator 
 
 Tip Calculator is a swift application to calculate tip on iOS platform. Providing the bill amount app will calulate tip amount for 3 values. 
 
